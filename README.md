@@ -19,8 +19,8 @@ Screenshot of Data Visualation Charts,
 
 Barchart
 
-![BarChart_Screenshot](screenshot1.png)
+![BarChart_Screenshot](Screenshot1.png)
 
 Scatterchart
 
-![ScatterChart_Screenshot](screenshot2.png)
+![ScatterChart_Screenshot](Screenshot2.png)
